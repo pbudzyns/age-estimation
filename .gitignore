@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+*.zip
+*.pkl
+*.h5
+data/
+model/

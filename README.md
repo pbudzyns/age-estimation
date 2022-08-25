@@ -4,7 +4,7 @@ Experiment with a number of methods to research their impact on the training
 process and different kid of biases.
 
 ## `ApparentAgeEstimation.pdf`
-The final report with the summary of contribution and result discussion. 
+The final report with the summary of contribution and the results discussion. 
 
 ## `base_model.ipynb`
 Load the dataset, and the ResNet50 model. Use transfer learning to adjust the 

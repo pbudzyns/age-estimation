@@ -3,6 +3,9 @@ Using Convolutional Neural Network to create apparent age estimation model.
 Experiment with a number of methods to research their impact on the training 
 process and different kid of biases.
 
+## `ApparentAgeEstimation.pdf`
+The final report with the summary of contribution and result discussion. 
+
 ## `base_model.ipynb`
 Load the dataset, and the ResNet50 model. Use transfer learning to adjust the 
 model for the given task and perform fine-tuning. 
